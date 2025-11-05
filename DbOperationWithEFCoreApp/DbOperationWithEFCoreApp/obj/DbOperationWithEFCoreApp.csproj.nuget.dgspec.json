@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp.csproj": {}
+    "C:\\Users\\Nishat\\Documents\\GitHub\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp.csproj": {}
   },
   "projects": {
-    "I:\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp.csproj": {
+    "C:\\Users\\Nishat\\Documents\\GitHub\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\Nishat\\Documents\\GitHub\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp.csproj",
         "projectName": "DbOperationWithEFCoreApp",
-        "projectPath": "I:\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp.csproj",
+        "projectPath": "C:\\Users\\Nishat\\Documents\\GitHub\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp.csproj",
         "packagesPath": "C:\\Users\\Nishat\\.nuget\\packages\\",
-        "outputPath": "I:\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\obj\\",
+        "outputPath": "C:\\Users\\Nishat\\Documents\\GitHub\\EFCore\\DbOperationWithEFCoreApp\\DbOperationWithEFCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,5 +8,8 @@ namespace DbOperationWithEFCoreApp.Data
         {
                 
         }
+
+        public DbSet<Book> Books { get; set; }
+
     }
 }
